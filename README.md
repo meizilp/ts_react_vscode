@@ -40,7 +40,7 @@
     - webpack.config.js  
         webpack的配置文件。根据启动时的参数会做一些不同的处理。          
 3. VsCode快捷键配置(File->Preferences->Keyboard Shortcuts)(Ctrl+R触发执行任务选择)  
-    ```json
+```json
     [
         {
             "key": "ctrl+shift+q",
@@ -57,4 +57,4 @@
             "command": "workbench.action.tasks.runTask"
         }
     ]
-    ```
+```
